@@ -4,10 +4,11 @@ Using Python through jupyter notebooks various analysis were peformed as project
 
 ## Twitter Dogs
 ### Dataset
-WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.
-For this case study, the data source comes off the back of Twitter specifically using an API to get raw data. The WeRateDogs Twitter archive contains basic tweet data in its current state at 2356 rows. The file used was the [twitter-archive-enhanced.csv] file. This was imported using pandas.
+> WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.
+For this case study, the data source comes off the back of Twitter specifically using an API to get raw data. 
 
 ### Summary of Findings
+> The WeRateDogs Twitter archive contains basic tweet data in its current state at 2356 rows. The file used was the [twitter-archive-enhanced.csv] file. This was imported using pandas. Assesing the data, shown below are the various quality issues as well as the untidiness found across the 3 datasets. All three were merged to create a singular data set containing as much cleaned information as possible. This file was built off a neural network and is used to classify the dog breeds.
 
 ### Key Insights for Presentation
 - The average numerator rating is at 12.28
