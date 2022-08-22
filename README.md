@@ -1,4 +1,7 @@
 # Udacity-Project-I
+One of the projects performed during the Udacity Data Analyst Nanodegree Programme
+Using Python through jupyter notebooks various analysis were peformed as projects to fulfill the requirements for the course.
+
 ## Twitter Dogs
 ### Dataset
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10.
